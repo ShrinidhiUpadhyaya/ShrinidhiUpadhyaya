@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+Hi, iam Shrinidhi Upadhyaya a passionate Qt/Qml developer from Bengaluru India. 4+ years of experience in developing robust code for mobile applications, gaming softwares etc. An enthusiastic dev and deep creative thinker with a zeal to achieve great heights. QML is ❤️ 
+
+**Tools And Techologies:**
+<ul> 
+<img src=https://user-images.githubusercontent.com/8769408/117580060-99565900-b113-11eb-929c-7ed800149977.png height="40" width ="40">
+<img src=https://user-images.githubusercontent.com/8769408/117580061-9bb8b300-b113-11eb-9e71-49623254be61.png height="40" width ="40">
+<img src=https://user-images.githubusercontent.com/8769408/117580064-9ce9e000-b113-11eb-8c1f-ce38ccd2b161.png height="40" width ="40">
+<img src=https://user-images.githubusercontent.com/8769408/117580065-9e1b0d00-b113-11eb-8328-52c6306d6db1.png height="40" width ="40">
+<img src=https://user-images.githubusercontent.com/8769408/117580067-9f4c3a00-b113-11eb-98eb-e4a105a4558a.png height="40" width ="40">
+</ul>
+
 <!--
 **ShrinidhiUpadhyaya/ShrinidhiUpadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
