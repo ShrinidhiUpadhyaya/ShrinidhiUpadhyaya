@@ -17,11 +17,6 @@ Hi, iam Shrinidhi Upadhyaya a passionate Qt/Qml developer from Namma Bengaluru I
 <img src=https://user-images.githubusercontent.com/8769408/117580067-9f4c3a00-b113-11eb-98eb-e4a105a4558a.png height="40" width ="40">
 </p>
 
-**Currently Working On:**
-
-[Covid 19 India App](https://github.com/ShrinidhiUpadhyaya/CovidApp)
-
-
 <!--
 **ShrinidhiUpadhyaya/ShrinidhiUpadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
