@@ -3,8 +3,8 @@
 
 Hi, iam Shrinidhi Upadhyaya a passionate Frontend developer from Namma Bengaluru India, currently in Germany. A passionate frontend developer dedicated to crafting immersive user experiences through clean, efficient code and innovative design solutions..
 
-🔭 I’m currently working on: Product design, React, Next.js <br />
-🌱 I’m currently learning: Typescript <br />
+🔭 I’m currently working on: Product design, React, Next.js <br />  <br />
+🌱 I’m currently learning: Typescript <br />  <br />
 💬 Ask me about: React & NextJs
 
 <h1>Tech Stack </h1>
