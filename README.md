@@ -28,6 +28,4 @@ Hi, iam Shrinidhi Upadhyaya a passionate Frontend developer from Namma Bengaluru
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-
-
-
+[![An image of @shrinidhiupadhyaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrinidhiupadhyaya)](https://holopin.io/@shrinidhiupadhyaya)
