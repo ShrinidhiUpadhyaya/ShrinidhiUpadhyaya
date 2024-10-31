@@ -6,9 +6,13 @@ Hi, iam Shrinidhi Upadhyaya a passionate Frontend developer from Namma Bengaluru
 🔭 **I’m currently working on:** <br /> Product design, Design Psychology <br />  <br />
 💬 **Ask me about:** <br /> React & NextJs
 
+
+<h1>Hacktoberfest 2024</h1>
+
+
 [![An image of @shrinidhiupadhyaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrinidhiupadhyaya)](https://holopin.io/@shrinidhiupadhyaya)
 
-<h1>Tech Stack </h1>
+<h1>Tech Stack</h1>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
