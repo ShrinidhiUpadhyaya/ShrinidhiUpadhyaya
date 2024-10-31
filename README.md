@@ -6,6 +6,8 @@ Hi, iam Shrinidhi Upadhyaya a passionate Frontend developer from Namma Bengaluru
 🔭 **I’m currently working on:** <br /> Product design, Design Psychology <br />  <br />
 💬 **Ask me about:** <br /> React & NextJs
 
+[![An image of @shrinidhiupadhyaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrinidhiupadhyaya)](https://holopin.io/@shrinidhiupadhyaya)
+
 <h1>Tech Stack </h1>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,5 +31,3 @@ Hi, iam Shrinidhi Upadhyaya a passionate Frontend developer from Namma Bengaluru
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
-[![An image of @shrinidhiupadhyaya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrinidhiupadhyaya)](https://holopin.io/@shrinidhiupadhyaya)
